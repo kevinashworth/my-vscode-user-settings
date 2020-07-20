@@ -1,6 +1,7 @@
 {
   "atomKeymap.promptV3Features": true,
   "diffEditor.ignoreTrimWhitespace": true,
+  "explorer.confirmDragAndDrop": false,
   "editor.detectIndentation": false,
   "editor.formatOnPaste": true,
   "editor.insertSpaces": true,
