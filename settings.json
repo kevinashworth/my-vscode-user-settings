@@ -1,0 +1,21 @@
+{
+  "atomKeymap.promptV3Features": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.detectIndentation": false,
+  "editor.formatOnPaste": true,
+  "editor.insertSpaces": true,
+  "editor.minimap.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.renderWhitespace": "boundary",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.scrollBeyondLastLine": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "javascript.validate.enable": false,
+  "telemetry.enableTelemetry": false,
+  "workbench.colorTheme": "Default Light+",
+  "workbench.editor.enablePreviewFromQuickOpen": false
+}
