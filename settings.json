@@ -15,6 +15,7 @@
   "editor.scrollBeyondLastLine": false,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
+  "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
   "telemetry.enableTelemetry": false,
   "workbench.colorTheme": "Default Light+",
