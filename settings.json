@@ -18,6 +18,7 @@
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
   "telemetry.enableTelemetry": false,
+  "window.restoreWindows": "all",
   "workbench.colorTheme": "Default Light+",
   "workbench.editor.enablePreviewFromQuickOpen": false
 }
